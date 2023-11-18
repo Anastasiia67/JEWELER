@@ -1,1 +1,1 @@
-alert('Hello anastasiia67');
+alert('Hello anastasiia, this is my first site ever, I am very excited!');
